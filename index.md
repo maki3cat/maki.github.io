@@ -1,9 +1,12 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-to be implemented ~~
+Hey, welcome to maki's blog.
+
+Leaving some prints on Earth to show I have been here(:
 
 ----
 
